@@ -6,9 +6,9 @@ LLM Benchmark which use for evaluate a LLM Model.
 ## Getting up and running
 To run LLM Bench you'll need the following:
 
-[An Interval account to host the dashboard](https://interval.com/)
-A Postgres database (feel free to run it locally, or use a service like [Supabase](https://supabase.com/) for a free, hosted db)
-Some API keys for LLM access (or you can run your own model)
+- [An Interval account to host the dashboard](https://interval.com/)
+- A Postgres database (feel free to run it locally, or use a service like [Supabase](https://supabase.com/) for a free, hosted db)
+- Some API keys for LLM access (or you can run your own model)
 Here's the step-by-step to get started. First pull down the code to run locally.
 
 `git clone git@github.com:interval/llm-bench.git
